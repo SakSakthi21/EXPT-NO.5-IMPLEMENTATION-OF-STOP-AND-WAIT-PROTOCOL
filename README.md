@@ -74,6 +74,7 @@ $ns run
 
 
 
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-06 at 8 39 43 AM" src="https://github.com/user-attachments/assets/c006e851-b7e5-4c4a-8503-cf8590f05817" />
 
 
 
